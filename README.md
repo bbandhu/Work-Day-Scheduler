@@ -1,4 +1,4 @@
-# 02 Advanced CSS: Portfolio
+# 05 Work Day Scheduler
 
 ## Name
 This is Week day work Scheduler application where user can block the time in day calendar that stores the time in local storage and display the blocked time on the day
