@@ -1,4 +1,4 @@
-// Get the current date and display it in the planner header
+/ Get the current date and display it in the planner header
 var currentDate = moment().format("dddd, MMMM Do YYYY");
 $("#currentDay").text(currentDate);
 
